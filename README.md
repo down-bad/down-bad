@@ -1,4 +1,4 @@
-### Hi there 👋
+### computer science student who cant learn C so he'll never pass the class sadly
 
 <!--
 **down-bad/down-bad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
