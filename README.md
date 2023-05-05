@@ -4,4 +4,3 @@
   </div>
  -->
  
- 3rd year Computer Science student from Greece
